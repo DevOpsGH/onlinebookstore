@@ -1,0 +1,6 @@
+in/bushansirgur/onlinebookstore/repository/BookCategoryRepository.class
+in/bushansirgur/onlinebookstore/repository/BookRepository.class
+in/bushansirgur/onlinebookstore/OnlineBookStoreApplication.class
+in/bushansirgur/onlinebookstore/entity/Book.class
+in/bushansirgur/onlinebookstore/entity/BookCategory.class
+in/bushansirgur/onlinebookstore/config/RepositoryConfig.class

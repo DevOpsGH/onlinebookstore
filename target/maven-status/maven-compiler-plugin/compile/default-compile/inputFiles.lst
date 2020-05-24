@@ -1,0 +1,6 @@
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/entity/BookCategory.java
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/repository/BookRepository.java
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/config/RepositoryConfig.java
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/entity/Book.java
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/repository/BookCategoryRepository.java
+/home/May242020/onlinebookstore/src/main/java/in/bushansirgur/onlinebookstore/OnlineBookStoreApplication.java
